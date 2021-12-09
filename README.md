@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArielGomezz
+- 👋 Bienvenidos, soy Gómez Marcelo Ariel
 - 👀 I’m interested in  programar 
 - 🌱 I’m currently learning desarrollo web
 - 💞️ I’m looking to collaborate on 
