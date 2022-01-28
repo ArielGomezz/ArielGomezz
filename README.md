@@ -1,3 +1,3 @@
-Hi, I'm Ariel. Nice to meet you!
-Junior Front End Developer
-Actualmente busco desarrollar mis experiencias, con el fin de crecer en el ámbito tecnológico y buscando nuevos desafíos que me ayuden a mejorar. Me interesa trabajar en equipo y poder aportar mis conocimientos a mis compañeros.
+Hola, soy Ariel. Un placer conocerte!
+
+Currently I seek to develop my experiences, in order to grow in the technological field and looking for new challenges that help me improve. I am interested in working as a team and being able to contribute my knowledge to my colleagues.
