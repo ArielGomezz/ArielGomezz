@@ -1,10 +1,3 @@
-- 👋 Bienvenidos, soy Gómez Marcelo Ariel
-- 👀 I’m interested in  programar 
-- 🌱 I’m currently learning desarrollo web
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-ArielGomezz/ArielGomezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ariel. Nice to meet you!
+Junior Front End Developer
+Actualmente busco desarrollar mis experiencias, con el fin de crecer en el ámbito tecnológico y buscando nuevos desafíos que me ayuden a mejorar. Me interesa trabajar en equipo y poder aportar mis conocimientos a mis compañeros.
